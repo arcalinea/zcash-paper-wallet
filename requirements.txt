@@ -1,0 +1,4 @@
+python-zcashlib
+mnemonic
+Pillow
+qrcode
